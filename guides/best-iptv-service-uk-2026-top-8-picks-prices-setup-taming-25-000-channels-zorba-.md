@@ -1,7 +1,7 @@
 ---
 title: "Best IPTV Service UK 2026 — Top 8 Picks, Prices & Setup [Taming 25,000 Channels] – Zorba IPTV"
 description: "IPTV in the UK: Zorba IPTV is our first choice, with published prices, a 24-hour free trial and a 7-day refund. It suits viewers in the UK who want one…"
-date: 2026-11-19T04:49:55.228Z
+date: 2026-11-19T04:51:02.513Z
 permalink: /guides/best-iptv-service-uk-2026-top-8-picks-prices-setup-taming-25-000-channels-zorba-/
 locale: en
 ---
@@ -148,5 +148,5 @@ Related guides: Best IPTV subscription — full guide · IPTV subscription — f
 
 © 2026 StreamScore Guides — Practical, honest IPTV guides
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K0d7_JeorD9NwRlo5XkSC-kUdx3ug1N_) · [Notebook file](https://github.com/iptv-help-guides/zorbatv-shop-iptv-guides/blob/main/notebooks/best-iptv-service-uk-2026-top-8-picks-prices-setup-taming-25-000-channels-zorba-.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nRAX1Nd7XJTOS_R66gzP1eehv4-k2_wi) · [Notebook file](https://github.com/iptv-help-guides/zorbatv-shop-iptv-guides/blob/main/notebooks/best-iptv-service-uk-2026-top-8-picks-prices-setup-taming-25-000-channels-zorba-.ipynb)
 {% endraw %}
