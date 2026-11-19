@@ -1,0 +1,9 @@
+title: "Zorba IPTV Guides"
+description: "Free IPTV troubleshooting guides and tools by Zorba IPTV (zorbatv.shop)."
+lang: en
+url: "https://iptv-help-guides.github.io"
+baseurl: "/zorbatv-shop-iptv-guides"
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
